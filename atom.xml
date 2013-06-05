@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-06-03T16:47:32+05:30</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://kirti91.github.io/atom.xml" rel="self"/>
+  <link href="http://kirti91.github.io/"/>
+  <updated>2013-06-05T15:14:17+05:30</updated>
+  <id>http://kirti91.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,36 +15,36 @@
   
   <entry>
     <title type="html"><![CDATA[New Post]]></title>
-    <link href="http://yoursite.com/blog/2013/06/03/new-post/"/>
+    <link href="http://kirti91.github.io/blog/2013/06/03/new-post/"/>
     <updated>2013-06-03T16:38:00+05:30</updated>
-    <id>http://yoursite.com/blog/2013/06/03/new-post</id>
+    <id>http://kirti91.github.io/blog/2013/06/03/new-post</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[kirti's Post]]></title>
-    <link href="http://yoursite.com/blog/2013/06/03/kirtis-post/"/>
+    <link href="http://kirti91.github.io/blog/2013/06/03/kirtis-post/"/>
     <updated>2013-06-03T16:38:00+05:30</updated>
-    <id>http://yoursite.com/blog/2013/06/03/kirtis-post</id>
+    <id>http://kirti91.github.io/blog/2013/06/03/kirtis-post</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[hello girls]]></title>
-    <link href="http://yoursite.com/blog/2013/06/03/hello-girls/"/>
+    <link href="http://kirti91.github.io/blog/2013/06/03/hello-girls/"/>
     <updated>2013-06-03T15:49:00+05:30</updated>
-    <id>http://yoursite.com/blog/2013/06/03/hello-girls</id>
+    <id>http://kirti91.github.io/blog/2013/06/03/hello-girls</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[hello]]></title>
-    <link href="http://yoursite.com/blog/2013/06/03/hello/"/>
+    <link href="http://kirti91.github.io/blog/2013/06/03/hello/"/>
     <updated>2013-06-03T15:22:00+05:30</updated>
-    <id>http://yoursite.com/blog/2013/06/03/hello</id>
+    <id>http://kirti91.github.io/blog/2013/06/03/hello</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
