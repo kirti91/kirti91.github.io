@@ -7,7 +7,7 @@ categories:
 ---
 <html>
 <body>
-{%img http://www.dpcdsb.org/NR/rdonlyres/7E72E60C-8385-44EF-AB14-CF01F7BDF9EA/88305/welcom3.gif%}
-</body>
+<img src="http://www.dpcdsb.org/NR/rdonlyres/7E72E60C-8385-44EF-AB14-CF01F7BDF9EA/88305/welcom3.gif">
+</body> 
 </html>
 
