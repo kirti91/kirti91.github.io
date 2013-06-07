@@ -7,11 +7,19 @@ categories:
 ---
 <html>
 <body>
-<h2>Red Hat packages newer versions of Ruby,Python </h2>
-<br>
+<h2>* Red Hat packages newer versions of Ruby,Python </h2>
+<hr>
 <h3>Software Collections 1.0 is designed for developers seeking access to cutting-edge progamming tools with support.</h3>
 <p>Red Hat has put out a beta release of Software Collections 1.0, in a bid to let developers use newer versions of languages such as Ruby and Python with support.<br>
 For certain applications, a more recent version of a language than what's included in the base Enterprise Linux (RHEL) system is needed, according to Red Hat. Software Collections 1.0 is the first in a series of releases designed to allow developers to take advantage of new capabilities in their Web apps faster with the safety net of support from Red Hat, it said.</p>
+<p>The beta includes access to the latest stable versions of Ruby 1.9.3 with Rails 3.2.8; Python 2.7 and 3.3; PHP 5.4; and Perl 5.16.3. Developers can also get their hands on a technology preview of node.js version 0.10. It is available now for use with RHEL 6 to customers with the right RHEL, Workstation or developer-related subscriptions. With the exception of Node.js, all components are supported. They are functionally complete and intended for production use.<br>
+The included versions of Ruby and the related web application development framework Rails, have substantial performance improvements for faster load times. Python 3.3 offers significant improvements in language consistency and Perl version 5.16.3 has enhanced security, according to Red Hat.<br>
+Additionally, Software Collections 1.0 also includes access to MariaDB version 5.5, MySQL version 5.5 and PostgreSQL version 9.2. Software Collections doesn't replace the default system tools provided with Red Hat Enterprise Linux 6. Instead, a parallel set of tools are installed and can be optionally enabled by the user, Red Hat said.<br>
+A major version of Software Collections will be released approximately every 18 months, and each version of a selected component remains backward compatible, according to Red Hat. The life cycle for version 1.0 will be three years.
+</p>
+<h2>* Hacker publishes alleged zero-day remote code execution exploit for older Plesk versions</h2>
+<hr>
+<h3>The exploit targets a vulnerability that only affects unsupported Plesk versions, the software's creator said</h3>
 </body>
 </html>
 
