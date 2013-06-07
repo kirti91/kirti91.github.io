@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kirti91.github.io/atom.xml" rel="self"/>
   <link href="http://kirti91.github.io/"/>
-  <updated>2013-06-07T16:57:10+05:30</updated>
+  <updated>2013-06-07T17:28:59+05:30</updated>
   <id>http://kirti91.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,7 +19,8 @@
     <updated>2013-06-07T13:04:00+05:30</updated>
     <id>http://kirti91.github.io/blog/2013/06/07/it-news</id>
     <content type="html"><![CDATA[<p><html>
-<body></p>
+<body>
+<img src="http://www.bosch-india-software.com/media/rbei_image_database/homepage_images/IT_Infra_mgnt_main_pic_w734.jpg"></p>
 
 <h2>* Red Hat packages newer versions of Ruby,Python </h2>
 
@@ -60,6 +61,8 @@ The hacker uses the alias &#8220;Kingcope&#8221; and has published exploits for 
 According to a page on the company&#8217;s website, version 8 of the product has not been supported since September 2012 and Plesk version 9 will reach end of life Sunday.<br>
 Even if the latest versions of the software are not affected, widespread exploitation of this vulnerability is still likely to happen because servers running the old and affected versions of Plesk are unlikely to be regularly maintained, said Craig Williams, a threat researcher at Cisco, </p>
 
+
+<p><img src="http://smarthitech.in/images/socialcost.jpg"></p>
 
 <h2>* Android antivirus products a big flop, researchers say</h2>
 
