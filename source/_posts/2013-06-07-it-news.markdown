@@ -5,3 +5,11 @@ date: 2013-06-07 13:04
 comments: true
 categories: 
 ---
+<html>
+<body>
+<h>Red Hat packages newer versions of Ruby,Python </h>
+<br>
+<h2>Software Collections 1.0 is designed for developers seeking access to cutting-edge progamming tools with support.</h2>
+</body>
+</html>
+
