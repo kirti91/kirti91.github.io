@@ -20,6 +20,8 @@ A major version of Software Collections will be released approximately every 18 
 <h2>* Hacker publishes alleged zero-day remote code execution exploit for older Plesk versions</h2>
 <hr>
 <h3><i>The exploit targets a vulnerability that only affects unsupported Plesk versions, the software's creator said</i></h3>
+<p>A hacker released what he claims is a zero-day exploit for older versions of the Parallels Plesk Panel, a popular Web hosting administration software package, that could allow attackers to inject arbitrary PHP code and execute rogue commands on Web servers.<br>
+The hacker uses the alias "Kingcope" and has published exploits for unpatched vulnerabilities before.</p>
 </body>
 </html>
 
