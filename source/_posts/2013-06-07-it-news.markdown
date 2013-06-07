@@ -27,7 +27,8 @@ The hacker uses the alias "Kingcope" and has published exploits for unpatched vu
 <br>
 According to a page on the company's website, version 8 of the product has not been supported since September 2012 and Plesk version 9 will reach end of life Sunday.<br>
 Even if the latest versions of the software are not affected, widespread exploitation of this vulnerability is still likely to happen because servers running the old and affected versions of Plesk are unlikely to be regularly maintained, said Craig Williams, a threat researcher at Cisco, </p>
-<h2>Android antivirus products a big flop, researchers say</h2>
+<h2>* Android antivirus products a big flop, researchers say</h2>
+<hr>
 <h3><i>
 Android smartphones and tablets are under attack, but the most popular tools developed to protect them are easily circumvented.</i> </h3><p>By Bob Brown | Network World</p>
 
@@ -39,6 +40,21 @@ The products' downfall was due to their use of overly simple content-based signa
 <br>
 Attackers are going after Android because it is so widely used. Kaspersky estimates more than 94 percent of all mobile malware targets Android. <br>
 Even so, the researchers at Northwestern and North Catolina State emphasized that other mobile OSes are all aren't necessarily any more protected from virus attacks. The researchers just didn't test them.</p>
+<hr>
+<h>June 06, 2013</h>
+<h2>Lenovo launches cloud storage service with access to social networks</h2>
+<h3>The site will offer 5GB of free capacity and allow secure access</h3>
+<h>By Lucas Mearian | Computerworld</h>
+<p>Lenovo this week offered a peek under the covers on a new consumer cloud storage service called Lenovo Reach, which it said will allow users to securely access their cloud-based files and applications from any device via a single login ID.
+<br>Beginning June 22, Lenovo said it will offer the Reach storage service to a limited number of users in order to garner feedback.<br>
+Customers interested in a preview of Lenovo Reach can sign up now for the beta test.<br>
+The Lenovo Reach personal cloud service will offer a single-sign on ID that allows users access to social networks, their online applications, as well as a search engine to help them find files, photos and other digital media across their online storage accounts.<br>
+The new service can encrypt and remember all user IDs and passwords, offering users a method of accessing favorite websites with a single click.
+<br>
+"The intuitive interface is consistent across all user devices and is designed for touch as well as keyboard and mouse interaction," Lenovo said.<br>
+Lenovo Reach supports Microsoft Windows, Google Android, and iOS operating systems across Lenovo and non-Lenovo branded PCs, tablets, and smartphones.<br>
+"Lenovo Reach makes it incredibly simple and convenient for people to interact with their growing libraries of digital content and apps from virtually anywhere, at any time, on any device through a consistent interface," Mark Cohen, vice president of software and cloud solutions at Lenovo, said in a statement. "Lenovo Reach plays a fundamental role in our plan to expand cloud services to consumers around the world."</p>
+
 </body>
 </html>
 
