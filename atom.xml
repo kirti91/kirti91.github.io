@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kirti91.github.io/atom.xml" rel="self"/>
   <link href="http://kirti91.github.io/"/>
-  <updated>2013-06-07T16:10:11+05:30</updated>
+  <updated>2013-06-07T16:11:42+05:30</updated>
   <id>http://kirti91.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p><html>
 <body></p>
 
-<h1>Red Hat packages newer versions of Ruby,Python </h1>
+<h2>Red Hat packages newer versions of Ruby,Python </h2>
 
 
 <br>
