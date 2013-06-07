@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kirti91.github.io/atom.xml" rel="self"/>
   <link href="http://kirti91.github.io/"/>
-  <updated>2013-06-07T14:06:24+05:30</updated>
+  <updated>2013-06-07T16:10:11+05:30</updated>
   <id>http://kirti91.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,13 +19,15 @@
     <updated>2013-06-07T13:04:00+05:30</updated>
     <id>http://kirti91.github.io/blog/2013/06/07/it-news</id>
     <content type="html"><![CDATA[<p><html>
-<body>
-<h>Red Hat packages newer versions of Ruby,Python </h></p>
+<body></p>
+
+<h1>Red Hat packages newer versions of Ruby,Python </h1>
+
 
 <br>
 
 
-<h2>Software Collections 1.0 is designed for developers seeking access to cutting-edge progamming tools with support.</h2>
+<h3>Software Collections 1.0 is designed for developers seeking access to cutting-edge progamming tools with support.</h3>
 
 
 <p></body>
