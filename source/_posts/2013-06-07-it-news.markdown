@@ -19,7 +19,7 @@ A major version of Software Collections will be released approximately every 18 
 </p>
 <h2>* Hacker publishes alleged zero-day remote code execution exploit for older Plesk versions</h2>
 <hr>
-<h3>The exploit targets a vulnerability that only affects unsupported Plesk versions, the software's creator said</h3>
+<h3><i>The exploit targets a vulnerability that only affects unsupported Plesk versions, the software's creator said</i></h3>
 </body>
 </html>
 
