@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kirti91.github.io/atom.xml" rel="self"/>
   <link href="http://kirti91.github.io/"/>
-  <updated>2013-06-07T12:06:02+05:30</updated>
+  <updated>2013-06-07T12:12:35+05:30</updated>
   <id>http://kirti91.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,19 +18,6 @@
     <link href="http://kirti91.github.io/blog/2013/06/03/hello/"/>
     <updated>2013-06-03T15:22:00+05:30</updated>
     <id>http://kirti91.github.io/blog/2013/06/03/hello</id>
-    <content type="html"><![CDATA[<p><html>
-<body>
-<img src="http://www.dpcdsb.org/NR/rdonlyres/7E72E60C-8385-44EF-AB14-CF01F7BDF9EA/88305/welcom3.gif">
-</body>
-</html></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hello]]></title>
-    <link href="http://kirti91.github.io/blog/2013/06/03/IT+News/"/>
-    <updated>2013-06-03T15:22:00+05:30</updated>
-    <id>http://kirti91.github.io/blog/2013/06/03/IT News</id>
     <content type="html"><![CDATA[<p><html>
 <body>
 <img src="http://www.dpcdsb.org/NR/rdonlyres/7E72E60C-8385-44EF-AB14-CF01F7BDF9EA/88305/welcom3.gif">
