@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kirti91.github.io/atom.xml" rel="self"/>
   <link href="http://kirti91.github.io/"/>
-  <updated>2013-06-07T16:15:04+05:30</updated>
+  <updated>2013-06-07T16:21:50+05:30</updated>
   <id>http://kirti91.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -21,10 +21,10 @@
     <content type="html"><![CDATA[<p><html>
 <body></p>
 
-<h2>Red Hat packages newer versions of Ruby,Python </h2>
+<h2>* Red Hat packages newer versions of Ruby,Python </h2>
 
 
-<br>
+<hr>
 
 
 <h3>Software Collections 1.0 is designed for developers seeking access to cutting-edge progamming tools with support.</h3>
@@ -39,6 +39,15 @@ The included versions of Ruby and the related web application development framew
 Additionally, Software Collections 1.0 also includes access to MariaDB version 5.5, MySQL version 5.5 and PostgreSQL version 9.2. Software Collections doesn&#8217;t replace the default system tools provided with Red Hat Enterprise Linux 6. Instead, a parallel set of tools are installed and can be optionally enabled by the user, Red Hat said.<br>
 A major version of Software Collections will be released approximately every 18 months, and each version of a selected component remains backward compatible, according to Red Hat. The life cycle for version 1.0 will be three years.
 </p>
+
+
+<h2>* Hacker publishes alleged zero-day remote code execution exploit for older Plesk versions</h2>
+
+
+<hr>
+
+
+<h3>The exploit targets a vulnerability that only affects unsupported Plesk versions, the software&#8217;s creator said</h3>
 
 
 <p></body>
