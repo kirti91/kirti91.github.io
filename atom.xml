@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Kirti blog]]></title>
+  <title><![CDATA[Kirti's Blog]]></title>
   <link href="http://kirti91.github.io/atom.xml" rel="self"/>
   <link href="http://kirti91.github.io/"/>
-  <updated>2013-06-20T16:54:27+05:30</updated>
+  <updated>2013-06-20T16:55:31+05:30</updated>
   <id>http://kirti91.github.io/</id>
   <author>
     <name><![CDATA[kirti]]></name>
